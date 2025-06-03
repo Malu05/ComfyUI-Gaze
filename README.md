@@ -1,7 +1,9 @@
 # ComfyUI-Gaze
 Gaze estimator for ComfyUI
+
 <img width="188" alt="ss02" src="https://github.com/user-attachments/assets/91d1bd3b-9bf2-4056-b2b1-12726787fd87" />
-<img width="251" alt="ss0" src="https://github.com/user-attachments/assets/e37452cd-30fc-47e3-a64b-298c84543fa" />
+
+<img width="251" alt="ss0" src="https://github.com/user-attachments/assets/e37452cd-30fc-47e3-a64b-298c845443fa" />
 
 ---
 
