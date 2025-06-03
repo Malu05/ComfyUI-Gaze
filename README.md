@@ -1,11 +1,16 @@
 # ComfyUI-Gaze
 Gaze estimator for ComfyUI
 
-<img width="188" alt="ss02" src="https://github.com/user-attachments/assets/91d1bd3b-9bf2-4056-b2b1-12726787fd87" />
+<div>
+  <img width="409" alt="ss01" src="https://github.com/user-attachments/assets/04b38ad8-0de1-481e-9b4b-4f425fcd90d3" />
+</div>
 
-<img width="251" alt="ss0" src="https://github.com/user-attachments/assets/e37452cd-30fc-47e3-a64b-298c845443fa" />
+<div>
+  <img width="251" alt="ss0" src="https://github.com/user-attachments/assets/e37452cd-30fc-47e3-a64b-298c845443fa" />
+</div>
 
 ---
+
 
 ## Install Guide
 
