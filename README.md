@@ -6,7 +6,7 @@ Gaze estimator for ComfyUI
 </div>
 
 <div>
-  <img width="251" alt="ss0" src="https://github.com/user-attachments/assets/e37452cd-30fc-47e3-a64b-298c845443fa" />
+  <img width="409" alt="ss0" src="https://github.com/user-attachments/assets/e37452cd-30fc-47e3-a64b-298c845443fa" />
 </div>
 
 ---
